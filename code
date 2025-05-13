@@ -1,0 +1,32 @@
+project-matchmaker/
+├── data/
+│   ├── briefs.json              # Sample project briefs
+│   ├── experts.json             # Expert/agent profiles
+│   └── test_cases.json          # Evaluation test cases
+│
+├── src/
+│   ├── __init__.py
+│   ├── models.py               # Pydantic data models
+│   ├── matching_system.py      # Core matching logic
+│   ├── chroma_setup.py         # Vector DB initialization
+│   ├── utils.py                # Data loading/helper functions
+│   └── config.py               # Configuration settings
+│
+├── evaluation/
+│   ├── evaluate.py             # Evaluation metrics calculation
+│   ├── llm_evaluation.py       # LLM-based match quality assessment
+│   └── results/                # Generated evaluation reports
+│       └── demo_results.md
+│
+├── docs/
+│   └── ARCHITECTURE.md         # Detailed system design document
+│
+├── tests/
+│   ├── test_data_loading.py
+│   └── test_matching_logic.py
+│
+├── demo.ipynb                  # Jupyter notebook demo
+├── requirements.txt            # Python dependencies
+├── .env                        # API keys/config (gitignored)
+├── .gitignore
+└── README.md                   # Main documentation
