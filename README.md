@@ -8,16 +8,16 @@ An intelligent system for matching project requirements with AI agents and human
 - Skill-based expert profiling
 - Domain-aware matching
 - Configurable ranking strategies
-
+![alt text](image.png)
 ## Installation 🛠️
 
 ```bash
-git clone https://github.com/yourusername/project-matchmaker.git
-cd project-matchmaker
+git clone https://github.com/foyie/Expert_Alignment_System.git
+cd Expert_Alignment_System.git
 python -m venv venv
 source venv/bin/activate  # Linux/MacOS
 # venv\Scripts\activate  # Windows
 
 pip install -r requirements.txt
 
-![alt text](image.png)
+
