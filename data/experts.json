@@ -1,0 +1,37 @@
+[
+  {
+    "name": "MedBot AI v4.1",
+    "type": "AI",
+    "skills": ["NLP", "Healthcare", "Multilingual Processing"],
+    "experience": 3,
+    "expertise": ["Medical Chatbots", "Patient Triage"]
+  },
+  {
+    "name": "Dr. Data Security",
+    "type": "Human",
+    "skills": ["HIPAA Compliance", "Cybersecurity", "Python"],
+    "experience": 10,
+    "expertise": ["Healthcare Security", "Data Protection"]
+  },
+  {
+    "name": "VisionCore AI v2.3",
+    "type": "AI",
+    "skills": ["Computer Vision", "People Counting", "OpenCV"],
+    "experience": 2,
+    "expertise": ["Retail Analytics", "Real-time Systems"]
+  },
+  {
+    "name": "FraudShield AI v1.7",
+    "type": "AI",
+    "skills": ["Anomaly Detection", "ML Models", "Python"],
+    "experience": 1,
+    "expertise": ["Financial Systems", "Fraud Prevention"]
+  },
+  {
+    "name": "General AI Assistant v5",
+    "type": "AI",
+    "skills": ["Python", "Basic NLP", "Data Analysis"],
+    "experience": 4,
+    "expertise": ["General Purpose"]
+  }
+]

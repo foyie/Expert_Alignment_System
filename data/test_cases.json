@@ -1,0 +1,19 @@
+{
+  "test_cases": [
+    {
+      "project_title": "Medical Chatbot Development",
+      "expected_top_match": "MedBot AI v4.1",
+      "required_in_results": ["Dr. Data Security"]
+    },
+    {
+      "project_title": "Retail Analytics System",
+      "expected_top_match": "VisionCore AI v2.3",
+      "required_in_results": []
+    },
+    {
+      "project_title": "Fraud Detection API",
+      "expected_top_match": "FraudShield AI v1.7",
+      "required_in_results": []
+    }
+  ]
+}

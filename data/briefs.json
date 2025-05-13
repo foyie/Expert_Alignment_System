@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Medical Chatbot Development",
+    "description": "Build a HIPAA-compliant chatbot for patient triage with multilingual support and symptom analysis using NLP.",
+    "required_skills": ["NLP", "Healthcare", "Security", "Python"],
+    "domain": "Healthcare"
+  },
+  {
+    "title": "Retail Analytics System",
+    "description": "Develop a computer vision-based people counting system with real-time dashboard integration for retail stores.",
+    "required_skills": ["Computer Vision", "Data Visualization", "Python"],
+    "domain": "Retail"
+  },
+  {
+    "title": "Fraud Detection API",
+    "description": "Create machine learning models for real-time fraud detection in financial transactions.",
+    "required_skills": ["Machine Learning", "Anomaly Detection", "Python"],
+    "domain": "Finance"
+  }
+]
